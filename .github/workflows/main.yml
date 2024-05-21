@@ -59,7 +59,7 @@ on:
   # available for release events, so if you add other events, you may need to
   # alter other parts of this workflow.
   release:
-    types: [published]
+    types: [created, published]
 
 
 jobs:
