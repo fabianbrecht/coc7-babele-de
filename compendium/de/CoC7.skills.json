@@ -1,0 +1,479 @@
+{
+  "label": "Fertigkeiten",
+  "mapping": {
+    "skillName": "system.skillName",
+    "specialization": "system.specialization"
+  },
+  "entries": {
+    "Accounting": {
+      "name": "Buchführung",
+      "skillName": "Buchführung",
+      "specialization": ""
+    },
+    "Animal Handling": {
+      "name": "Animal Handling",
+      "skillName": "Animal Handling",
+      "specialization": ""
+    },
+    "Anthropology": {
+      "name": "Anthropologie",
+      "skillName": "Anthropologie",
+      "specialization": ""
+    },
+    "Appraise": {
+      "name": "Werte Schätzen",
+      "skillName": "Werte Schätzen",
+      "specialization": ""
+    },
+    "Archaeology": {
+      "name": "Archäologie",
+      "skillName": "Archäologie",
+      "specialization": ""
+    },
+    "Art/Craft (Acting)": {
+      "name": "Handwerk/Kunst (Bühnenkunst)",
+      "skillName": "Bühnenkunst",
+      "specialization": "Handwerk/Kunst"
+    },
+    "Art/Craft (Any)": {
+      "name": "Handwerk/Kunst (Beliebig)",
+      "skillName": "Beliebig",
+      "specialization": "Handwerk/Kunst"
+    },
+    "Art/Craft (Fine Art)": {
+      "name": "Handwerk/Kunst (Bildende Kunst)",
+      "skillName": "Bildende Kunst",
+      "specialization": "Handwerk/Kunst"
+    },
+    "Art/Craft (Forgery)": {
+      "name": "Handwerk/Kunst (Fälscherei)",
+      "skillName": "Fälscherei",
+      "specialization": "Handwerk/Kunst"
+    },
+    "Art/Craft (Photography)": {
+      "name": "Handwerk/Kunst (Fotograf)",
+      "skillName": "Fotograf",
+      "specialization": "Handwerk/Kunst"
+    },
+    "Charm": {
+      "name": "Charme",
+      "skillName": "Charme",
+      "specialization": ""
+    },
+    "Civics": {
+      "name": "Staatskunde",
+      "skillName": "Staatskunde",
+      "specialization": ""
+    },
+    "Climb": {
+      "name": "Klettern",
+      "skillName": "Klettern",
+      "specialization": ""
+    },
+    "Computer Use": {
+      "name": "Computernutzung",
+      "skillName": "Computernutzung",
+      "specialization": ""
+    },
+    "Credit Rating": {
+      "name": "Finanzkraft",
+      "skillName": "Finanzkraft",
+      "specialization": ""
+    },
+    "Cthulhu Mythos": {
+      "name": "Cthulhu Mythos",
+      "skillName": "Cthulhu Mythos",
+      "specialization": ""
+    },
+    "Demolitions": {
+      "name": "Demolitions",
+      "skillName": "Demolitions",
+      "specialization": ""
+    },
+    "Disguise": {
+      "name": "Verkleiden",
+      "skillName": "Verkleiden",
+      "specialization": ""
+    },
+    "Diving": {
+      "name": "Tauchen",
+      "skillName": "Tauchen",
+      "specialization": ""
+    },
+    "Dodge": {
+      "name": "Ausweichen",
+      "skillName": "Ausweichen",
+      "specialization": ""
+    },
+    "Drive Auto": {
+      "name": "Fahren (Auto)",
+      "skillName": "Fahren (Auto)",
+      "specialization": ""
+    },
+    "Drive Carriage": {
+      "name": "Fahren (Kutsche)",
+      "skillName": "Fahren (Kutsche)",
+      "specialization": ""
+    },
+    "Drive Horse / Oxen": {
+      "name": "Fahren Pferd / Oxen",
+      "skillName": "Fahren Pferd / Oxen",
+      "specialization": ""
+    },
+    "Drive Wagon / Coach": {
+      "name": "Fahren Wagon / Coach",
+      "skillName": "Fahren Wagon / Coach",
+      "specialization": ""
+    },
+    "Electrical Repair": {
+      "name": "Elektrische Reparaturen",
+      "skillName": "Elektrische Reparaturen",
+      "specialization": ""
+    },
+    "Electronics": {
+      "name": "Elektronik",
+      "skillName": "Elektronik",
+      "specialization": ""
+    },
+    "Empire": {
+      "name": "Empire",
+      "skillName": "Empire",
+      "specialization": ""
+    },
+    "Fast Talk": {
+      "name": "Überreden",
+      "skillName": "Überreden",
+      "specialization": ""
+    },
+    "Fighting (Any)": {
+      "name": "Nahkampf (Beliebig)",
+      "skillName": "Beliebig",
+      "specialization": "Nahkampf"
+    },
+    "Fighting (Axe)": {
+      "name": "Nahkampf (Axt)",
+      "skillName": "Axt",
+      "specialization": "Nahkampf"
+    },
+    "Fighting (Brawl)": {
+      "name": "Nahkampf (Handgemenge)",
+      "skillName": "Handgemenge",
+      "specialization": "Nahkampf"
+    },
+    "Fighting (Chainsaw)": {
+      "name": "Nahkampf (Kettensäge)",
+      "skillName": "Kettensäge",
+      "specialization": "Nahkampf"
+    },
+    "Fighting (Flail)": {
+      "name": "Nahkampf (Prügel)",
+      "skillName": "Prügel",
+      "specialization": "Nahkampf"
+    },
+    "Fighting (Garrote)": {
+      "name": "Nahkampf (Garrote)",
+      "skillName": "Garrote",
+      "specialization": "Nahkampf"
+    },
+    "Fighting (Spear)": {
+      "name": "Nahkampf (Speer)",
+      "skillName": "Speer",
+      "specialization": "Nahkampf"
+    },
+    "Fighting (Sword)": {
+      "name": "Nahkampf (Schwert)",
+      "skillName": "Schwert",
+      "specialization": "Nahkampf"
+    },
+    "Fighting (Throw)": {
+      "name": "Nahkampf (Werfen)",
+      "skillName": "Werfen",
+      "specialization": "Nahkampf"
+    },
+    "Fighting (Whip)": {
+      "name": "Nahkampf (Peitsche)",
+      "skillName": "Peitsche",
+      "specialization": "Nahkampf"
+    },
+    "Firearms (Any)": {
+      "name": "Fernkampf (Beliebig)",
+      "skillName": "Beliebig",
+      "specialization": "Fernkampf"
+    },
+    "Firearms (Artillery)": {
+      "name": "Fernkampf (Artillerie)",
+      "skillName": "Artillerie",
+      "specialization": "Fernkampf"
+    },
+    "Firearms (Bow)": {
+      "name": "Fernkampf (Bogen)",
+      "skillName": "Bogen",
+      "specialization": "Fernkampf"
+    },
+    "Firearms (Flamethrower)": {
+      "name": "Fernkampf (Flammenwerfer)",
+      "skillName": "Flammenwerfer",
+      "specialization": "Fernkampf"
+    },
+    "Firearms (Handgun)": {
+      "name": "Fernkampf (Faustfeuerwaffe)",
+      "skillName": "Faustfeuerwaffe",
+      "specialization": "Fernkampf"
+    },
+    "Firearms (Heavy Weapons)": {
+      "name": "Fernkampf (Schwere Waffen)",
+      "skillName": "Schwere Waffen",
+      "specialization": "Fernkampf"
+    },
+    "Firearms (Machine Gun)": {
+      "name": "Fernkampf (Maschinenpistole)",
+      "skillName": "Maschinenpistole",
+      "specialization": "Fernkampf"
+    },
+    "Firearms (Rifle/Shotgun)": {
+      "name": "Fernkampf (Gewehr/Flinte)",
+      "skillName": "Gewehr/Flinte",
+      "specialization": "Fernkampf"
+    },
+    "Firearms (Submachine Gun)": {
+      "name": "Fernkampf (Sturmgewehr)",
+      "skillName": "Sturmgewehr",
+      "specialization": "Fernkampf"
+    },
+    "First Aid": {
+      "name": "Erste Hilfe",
+      "skillName": "Erste Hilfe",
+      "specialization": ""
+    },
+    "Gambling": {
+      "name": "Glücksspiel",
+      "skillName": "Glücksspiel",
+      "specialization": ""
+    },
+    "History": {
+      "name": "Geschichte",
+      "skillName": "Geschichte",
+      "specialization": ""
+    },
+    "Hypnosis": {
+      "name": "Hypnose",
+      "skillName": "Hypnose",
+      "specialization": ""
+    },
+    "Intimidate": {
+      "name": "Einschüchtern",
+      "skillName": "Einschüchtern",
+      "specialization": ""
+    },
+    "Jump": {
+      "name": "Springen",
+      "skillName": "Springen",
+      "specialization": ""
+    },
+    "Language (Any)": {
+      "name": "Sprache (Beliebig)",
+      "skillName": "Beliebig",
+      "specialization": "Sprache"
+    },
+    "Language (Own)": {
+      "name": "Muttersprache",
+      "skillName": "Muttersprache",
+      "specialization": "Muttersprache"
+    },
+    "Law": {
+      "name": "Rechtswesen",
+      "skillName": "Rechtswesen",
+      "specialization": ""
+    },
+    "Library Use": {
+      "name": "Bibliotheksnutzung",
+      "skillName": "Bibliotheksnutzung",
+      "specialization": ""
+    },
+    "Listen": {
+      "name": "Horchen",
+      "skillName": "Horchen",
+      "specialization": ""
+    },
+    "Locksmith": {
+      "name": "Schließtechnik",
+      "skillName": "Schließtechnik",
+      "specialization": ""
+    },
+    "Lore (Any)": {
+      "name": "Geschichte (Beliebig)",
+      "skillName": "Beliebig",
+      "specialization": "Geschichte "
+    },
+    "Mechanical Repair": {
+      "name": "Mechanische Reparaturen",
+      "skillName": "Mechanische Reparaturen",
+      "specialization": ""
+    },
+    "Medicine": {
+      "name": "Medizin",
+      "skillName": "Medizin",
+      "specialization": ""
+    },
+    "Natural World": {
+      "name": "Naturkunde",
+      "skillName": "Naturkunde",
+      "specialization": ""
+    },
+    "Navigate": {
+      "name": "Navigation",
+      "skillName": "Navigation",
+      "specialization": ""
+    },
+    "Occult": {
+      "name": "Okkultismus",
+      "skillName": "Okkultismus",
+      "specialization": ""
+    },
+    "Operate Heavy Machinery": {
+      "name": "Schweres Gerät",
+      "skillName": "Schweres Gerät",
+      "specialization": ""
+    },
+    "Persuade": {
+      "name": "Überzeugen",
+      "skillName": "Überzeugen",
+      "specialization": ""
+    },
+    "Pilot (Any)": {
+      "name": "Steuern (Beliebig)",
+      "skillName": "Beliebig",
+      "specialization": "Steuern"
+    },
+    "Psychoanalysis": {
+      "name": "Psychoanalyse",
+      "skillName": "Psychoanalyse",
+      "specialization": ""
+    },
+    "Psychology": {
+      "name": "Psychologie",
+      "skillName": "Psychologie",
+      "specialization": ""
+    },
+    "Read Lips": {
+      "name": "Lippenlesen",
+      "skillName": "Lippenlesen",
+      "specialization": ""
+    },
+    "Ride": {
+      "name": "Reiten",
+      "skillName": "Reiten",
+      "specialization": ""
+    },
+    "Rope Use": {
+      "name": "Seile verwenden",
+      "skillName": "Seile verwenden",
+      "specialization": ""
+    },
+    "Science (Any)": {
+      "name": "Naturwissenschaft (Beliebig)",
+      "skillName": "Beliebig",
+      "specialization": "Naturwissenschaft"
+    },
+    "Science (Astronomy)": {
+      "name": "Naturwissenschaft (Astronomie)",
+      "skillName": "Astronomie",
+      "specialization": "Naturwissenschaft"
+    },
+    "Science (Biology)": {
+      "name": "Naturwissenschaft (Biologie)",
+      "skillName": "Biologie",
+      "specialization": "Naturwissenschaft"
+    },
+    "Science (Botany)": {
+      "name": "Naturwissenschaft (Botanik)",
+      "skillName": "Botanik",
+      "specialization": "Naturwissenschaft"
+    },
+    "Science (Chemistry)": {
+      "name": "Naturwissenschaft (Chemie)",
+      "skillName": "Chemie",
+      "specialization": "Naturwissenschaft"
+    },
+    "Science (Cryptography)": {
+      "name": "Naturwissenschaft (Kryptographie)",
+      "skillName": "Kryptographie",
+      "specialization": "Naturwissenschaft"
+    },
+    "Science (Engineering)": {
+      "name": "Naturwissenschaft (Ingenieurswissenschaft)",
+      "skillName": "Ingenieurswissenschaft",
+      "specialization": "Naturwissenschaft"
+    },
+    "Science (Forensics)": {
+      "name": "Naturwissenschaft (Kriminaltechnik)",
+      "skillName": "Kriminaltechnik",
+      "specialization": "Naturwissenschaft"
+    },
+    "Science (Geology)": {
+      "name": "Naturwissenschaft (Geologie)",
+      "skillName": "Geologie",
+      "specialization": "Naturwissenschaft"
+    },
+    "Science (Mathematics)": {
+      "name": "Naturwissenschaft (Mathematik)",
+      "skillName": "Mathematik",
+      "specialization": "Naturwissenschaft"
+    },
+    "Science (Meteorology)": {
+      "name": "Naturwissenschaft (Meteorologie)",
+      "skillName": "Meteorologie",
+      "specialization": "Naturwissenschaft"
+    },
+    "Science (Pharmacy)": {
+      "name": "Naturwissenschaft (Pharmacie)",
+      "skillName": "Pharmacie",
+      "specialization": "Naturwissenschaft"
+    },
+    "Science (Physics)": {
+      "name": "Naturwissenschaft (Physik)",
+      "skillName": "Physik",
+      "specialization": "Naturwissenschaft"
+    },
+    "Science (Zoology)": {
+      "name": "Naturwissenschaft (Zoologie)",
+      "skillName": "Zoologie",
+      "specialization": "Naturwissenschaft"
+    },
+    "Sleight of Hand": {
+      "name": "Kaschieren",
+      "skillName": "Kaschieren",
+      "specialization": ""
+    },
+    "Spot Hidden": {
+      "name": "Verborgenes erkennen",
+      "skillName": "Verborgenes erkennen",
+      "specialization": ""
+    },
+    "Stealth": {
+      "name": "Verborgen Bleiben",
+      "skillName": "Verborgen Bleiben",
+      "specialization": ""
+    },
+    "Survival (Any)": {
+      "name": "Überlebenskunst (Beliebig)",
+      "skillName": "Beliebig",
+      "specialization": "Überlebenskunst"
+    },
+    "Swim": {
+      "name": "Schwimmen",
+      "skillName": "Schwimmen",
+      "specialization": ""
+    },
+    "Track": {
+      "name": "Spurensuche",
+      "skillName": "Spurensuche",
+      "specialization": ""
+    },
+    "Trap": {
+      "name": "Fallenstellen",
+      "skillName": "Fallenstellen",
+      "specialization": ""
+    }
+  }
+}

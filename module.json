@@ -1,0 +1,27 @@
+{
+  "id": "coc7-babele-de",
+  "title": "Call of Cthulhu 7 German Compendium Translation",
+  "description": "Provides German Translation for the Call of Cthulhu 7th Edition Compendium Content",
+  "authors": [
+    {
+      "name": "Fabian Brecht"
+    }
+  ],
+  "version": "0.0.2",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "esmodules": [
+    "register.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}
