@@ -4,10 +4,11 @@
   "description": "Provides German Translation for the Call of Cthulhu 7th Edition Compendium Content",
   "authors": [
     {
-      "name": "Fabian Brecht"
+      "name": "Fabian Brecht",
+      "discord": "fabianspawn3d"
     }
   ],
-  "version": "0.0.2",
+  "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -23,5 +24,8 @@
         "compatibility": {}
       }
     ]
-  }
+  },
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#"
 }
