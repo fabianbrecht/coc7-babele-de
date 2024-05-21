@@ -126,4 +126,3 @@ jobs:
           artifacts: './module.json, ./module.zip'
           tag: ${{ github.event.release.tag_name }}
           body: ${{ github.event.release.body }}
-Updated module.json · fabianbrecht/coc7-babele-de@bcf9241
